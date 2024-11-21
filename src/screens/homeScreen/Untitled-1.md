@@ -1,0 +1,1 @@
+GIT_SSH_COMMAND="ssh -i c:/Users/Ahmed/id_arshad" git clone git@github.com:digpak/Deen-App.git
